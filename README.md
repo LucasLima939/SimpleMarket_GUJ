@@ -1,4 +1,4 @@
-# SimpleMarket_GUJ
+# Simple GUJ System for Grocery Stores
 # English
 This is a model de application in Java, GUJ style. My objective is create the back-end for a market, the code recieves and cadastrate clientes, products and employees, put them in a list, so you can ask the names, id, address and more information. I did use heritage, orientation to objects and class creation.
 
